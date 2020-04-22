@@ -1,0 +1,16 @@
+body{
+	background: gray;	font-family: Consolas; color:white;
+}
+		table{
+			border:4px solid white; color:white; background: linear-gradient(to right,green,red,navy,gray); font-family: consolas; width: 80%; text-align: center;
+			}
+		th{
+			border:4px solid white;
+		}
+		td{
+			border:2px solid white;
+			#a1{
+		width:50px;
+		height:50px;
+	}Назва Компанії
+	Ігри компанії
